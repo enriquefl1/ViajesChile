@@ -8,3 +8,17 @@ body * {
     left: 129px;
     width: 43px;
 }
+
+.texto-blanco {
+    color:white;
+}
+
+.fondo-calipso {
+    background-color: cadetblue;
+}
+
+.icono {
+    color :white;
+}
+
+
