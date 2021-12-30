@@ -17,8 +17,14 @@ body * {
     background-color: cadetblue;
 }
 
+.texto-14px{
+    font-size:14px;
+}
 .icono {
     color :white;
 }
 
-
+.img-ancho-alto{
+    width: 286px;
+    height:190px
+}
