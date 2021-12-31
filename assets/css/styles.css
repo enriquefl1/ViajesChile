@@ -4,6 +4,10 @@ body * {
     font-family: 'Roboto', sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+  }
+
 .img-nav {
     left: 129px;
     width: 43px;
@@ -15,6 +19,7 @@ body * {
 
 .fondo-calipso {
     background-color: cadetblue;
+    background-color:#0DCAF0;
 }
 
 .texto-14px{
@@ -25,6 +30,6 @@ body * {
 }
 
 .img-ancho-alto{
-    width: 286px;
-    height:190px
+    width: 100%;
+    height:auto;
 }
